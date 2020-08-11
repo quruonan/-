@@ -17,6 +17,13 @@ page {
   height: 100%;
 }
 
+.tip {
+  color: #999;
+  text-align: center;
+  font-size: 28rpx;
+  margin-top: 10rpx;
+}
+
 .result {
   flex: 1;
   display: flex;

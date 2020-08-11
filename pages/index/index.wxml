@@ -2,7 +2,7 @@
 	<image mode='aspectFit' src='{{imagePath}}'></image>
 </view>
 
-<!-- <view class="tip">点击下方按钮选择一张照片儿看看</view> -->
+<view class="tip">tip: 五官端正的照片儿哦=￣ω￣=</view>
 
 <!-- 测试结果 -->
 
