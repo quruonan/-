@@ -1,12 +1,11 @@
 {
   "pages": [
-    "pages/index/index",
-    "pages/logs/logs"
+    "pages/index/index"
   ],
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "颜值测试",
+    "navigationBarTitleText": "猜猜我多大",
     "navigationBarTextStyle": "black"
   },
   "sitemapLocation": "sitemap.json"

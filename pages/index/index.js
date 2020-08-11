@@ -1,7 +1,7 @@
 Page({
 
   data: {
-    imagePath: '/assets/images/12.jpg',
+    imagePath: '/assets/images/3.jpg',
     face: null
   },
 

@@ -1,13 +1,15 @@
 <view class='avatar'>
-  <image mode='aspectFit' src='{{imagePath}}'></image>
+	<image mode='aspectFit' src='{{imagePath}}'></image>
 </view>
+
+<!-- <view class="tip">点击下方按钮选择一张照片儿看看</view> -->
 
 <!-- 测试结果 -->
 
 <view class='result' hidden='{{!face}}'>
-  <text>性别：{{face.gender > 50 ? '男' : '女'}}</text>
-  <text>年龄：{{face.age}}</text>
-  <text>颜值：{{face.beauty}}</text>
+	<text>性别：{{face.gender > 50 ? '男' : '女'}}</text>
+	<text>年龄：{{face.age}}</text>
+	<text>颜值：{{face.beauty}}</text>
 </view>
 
 <button type='primary' bind:tap='chooseImage'>选择一张照片</button>
